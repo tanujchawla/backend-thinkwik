@@ -11,4 +11,4 @@
 ## Api Docs
 
 1. [User](docs/user.md)
-2. [Events](docs/events.md)dd
+2. [Events](docs/events.md)
